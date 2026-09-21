@@ -1,6 +1,5 @@
 Problem Statement:
-Universities need an efficient way to maintain and monitor student attendance. Manually recording attendance and calculating attendance percentages can be time-consuming and may lead to errors.
-The Simple University Attendance System provides a basic computerized solution for storing student details, marking students as present or absent, and calculating and displaying their attendance percentage. 
+Managing student attendance manually can be time-consuming and can make it difficult to calculate attendance percentages. This project provides a simple command-line system for maintaining student attendance counts and calculating attendance percentages.
 Scope of the Project:
 The scope of this project is to provide a simple, menu-driven system for managing student attendance. The system allows users to- 
 Add students using their roll number and name. 
