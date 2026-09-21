@@ -10,3 +10,9 @@ Python 3.x
 A terminal/command prompt
 The uploaded Python source file: Vityarthi_Project.py
 No GUI-based setup is required to execute the supplied program.
+How to Run the Project:
+Install Python 3.x on the computer if it is not already installed.
+Open Command Prompt or another terminal.
+Navigate to the folder containing Vityarthi_Project.py.
+Run the program with: python Vityarthi_Project.py
+Use the displayed menu to add students and manage attendance.
